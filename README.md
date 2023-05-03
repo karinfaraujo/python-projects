@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @karinfaraujo
+- 👋 Hi, I’m Karin
 - 👀 I’m interested in technology
 - 🌱 I’m currently learning Data Science 
 - 💞️ I’m looking to collaborate on Data Science projects
